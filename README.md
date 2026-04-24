@@ -1,4 +1,4 @@
-# Ising-Model-using-Monte-Carlo-Methods
+# Ising-Model
 
 ## Overview
 
